@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSP-C0C0C0?style=for-the-badge&logo=JSP&logoColor=white"/>
 </p>
 
 <h2 align="center">FrontEnd</h2>
