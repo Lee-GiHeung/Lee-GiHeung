@@ -33,6 +33,7 @@
 <h2 align="center">Database</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-0019f4?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
 
 
